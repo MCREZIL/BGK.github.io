@@ -1,2 +1,2 @@
-# Buroranews.github.io
+# BGK.github.io
 For my news website posting
